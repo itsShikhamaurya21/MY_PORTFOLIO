@@ -40,7 +40,7 @@ function Certifications() {
           <div className="cert-card" key={index}>
             <img src={cert.img} alt={cert.title} className="cert-image" />
 
-            {/* Overlay with all details */}
+            
             <div className="cert-overlay">
               <h3>{cert.title}</h3>
               <p>{cert.desc}</p>
