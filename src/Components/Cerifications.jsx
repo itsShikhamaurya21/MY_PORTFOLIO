@@ -1,6 +1,6 @@
 import "../../src/index.css";
 import Contribution from "../assets/Contribution.jpg";
-import Web from "../assets/web.jpg";
+import Web from "../assets/Web.jpg";
 import AI from "../assets/ai.jpg";
 import Mern from "../assets/Fundamentals-of-MERN-Stack.avif";
 
