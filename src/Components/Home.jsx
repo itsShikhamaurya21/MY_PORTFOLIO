@@ -1,11 +1,11 @@
 import AboutMe from "./AboutMe";
 import Certifications from "./Cerifications";
 import Contactme from "./Contactme";
-import DSAJourney from "./DSAJourney";
+
 import Education from "./Education";
-import Experience from "./Experience";
+
 import Skills from "./Skills";
-import Footer from "./Footer";
+
 import Projects from "./Projects";
 import Navbar from "./Navbar";
 import "../../src/index.css"
@@ -42,19 +42,13 @@ function Home() {
         <Certifications />
       </section>
 
-      {/* <section id="experience">
-        <Experience />
-      </section> */}
 
-      {/* <section id="dsa">
-        <DSAJourney />
-      </section> */}
 
       <section id="contact">
         <Contactme />
       </section>
 
-      {/* <Footer /> */}
+      
     </>
   );
 }
